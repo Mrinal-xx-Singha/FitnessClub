@@ -14,7 +14,7 @@ const ExerciseVideos = ({exerciseVideos, name}) => {
       </Typography>
       <Stack sx={{flexDirection : {lg:'row'}, gap:{ lg:'110px',xs:'0'}
       }} justifyContent='flex-start' flexWrap='wrap' alignItems='center'>
-        { exerciseVideos?.slice(0,3).map((item,index) => (
+        { exerciseVideos?.slice(0,6).map((item,index) => (
 
           <a
             key={index} className='exercise-video'
