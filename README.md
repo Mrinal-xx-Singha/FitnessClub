@@ -1,4 +1,4 @@
-# Deployed Website 🖥️ - https://transcendent-semolina-a8a371.netlify.app/
+# Deployed Website 🖥️ - [Live](https://transcendent-semolina-a8a371.netlify.app/)
 
 ## WebApp ScreenShots are given below  👇
 
